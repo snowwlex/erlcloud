@@ -1,5 +1,9 @@
 # erlcloud: Cloud Computing APIs For Erlang #
 
+
+[![Build Status](https://secure.travis-ci.org/snowwlex/erlcloud.png?branch=master)](http://travis-ci.org/snowwlex/erlcloud)
+
+
 This is version 0.8.0.  The API is subject to change.
 
 Service APIs implemented:
